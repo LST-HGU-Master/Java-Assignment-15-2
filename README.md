@@ -16,12 +16,12 @@
 ### 完成したProgF2.main()を実行して表示されるウィンドウの例（ 4720000 生命工太 の場合）
 起動直後
 
-![ProgF2起動直後](https://user-images.githubusercontent.com/50605381/181152690-d7b74ca9-6cec-432d-b5a9-3e70990ce48f.png)
+![ProgF2起動直後](https://user-images.githubusercontent.com/50605381/181160086-6dec264e-3376-4b6d-a3d4-56f0c38b6003.png)
 
 中央のテキストフィールドの数字が0または0.0の場合の割り算結果
 
-![ProgF2で0割り算](https://user-images.githubusercontent.com/50605381/181151009-921378d2-fe12-46b9-b901-851273dc4a23.png)
+![ProgF2で0割り算](https://user-images.githubusercontent.com/50605381/181160545-8d51e1b3-2043-43b0-889f-22263064d754.png)
 
 左または中央のテキストフィールドが空っぽまたは文字の場合の演算結果
 
-![ProgF2で空白演算](https://user-images.githubusercontent.com/50605381/181153703-50a86166-1245-4305-944e-a8beef748461.png)
+![ProgF2で空白演算](https://user-images.githubusercontent.com/50605381/181160574-5fa67b04-a69b-4973-9414-165f08bede56.png)
