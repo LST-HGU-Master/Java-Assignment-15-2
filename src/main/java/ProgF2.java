@@ -21,7 +21,7 @@ public class ProgF2 extends JFrame
 
         txt1 = new JTextField(); txt1.setBounds(10 ,y1,txtW,txtH); add(txt1);
         txt2 = new JTextField(); txt2.setBounds(110,y1,txtW,txtH); add(txt2);
-        txt3 = new JTextField(); txt3.setBounds(210,y1,txtW,txtH); add(txt3);
+        txt3 = new JTextField(); txt3.setBounds(210,y1, 130,txtH); add(txt3);
         lb1  = new JLabel("="); lb1.setBounds(190,y1,txtW,txtH); add(lb1);
 
         int btW = 50, btH = 20;
