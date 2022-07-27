@@ -18,10 +18,10 @@
 
 ![ProgF2起動直後](https://user-images.githubusercontent.com/50605381/181152690-d7b74ca9-6cec-432d-b5a9-3e70990ce48f.png)
 
-中央のテキストフィールドの数字が0.0の場合
+中央のテキストフィールドの数字が0または0.0の場合の割り算結果
 
 ![ProgF2で0割り算](https://user-images.githubusercontent.com/50605381/181151009-921378d2-fe12-46b9-b901-851273dc4a23.png)
 
-左または中央のテキストフィールドが空っぽまたは文字の場合
+左または中央のテキストフィールドが空っぽまたは文字の場合の演算結果
 
 ![ProgF2で空白演算](https://user-images.githubusercontent.com/50605381/181153703-50a86166-1245-4305-944e-a8beef748461.png)
