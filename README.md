@@ -1,14 +1,16 @@
-# Autograding Example: Java
-This example project is written in Java, and tested with Gradle/JUnit.
+# 課題 15-2: 簡易GUI電卓への機能追加
 
-### The assignment
-The tests are currently failing because of an output mismatch. Fixing the `System.out.println` in the main method will make the tests green.
+### 課題の説明
+第15回の解説ページにある `WinCalcSample` は、GUI表示になっているものの足し算と引き算の機能しかないため電卓としてはかなり物足りない。
+そこで、このコードを発展させた `ProgF2` を次の条件を満たす形で作成しなさい。
 
-### Setup command
-N/A
+-　ウィンドウのタイトルを `GUI電卓 by 各自の学生番号 氏名` とする
+- 掛け算、割り算、剰余のボタンと機能を加える
+- 割り算の場合、中央のテキストフィールドの数字が0または0.0であれば、右側のテキストフィールドに'0では割れません'を表示する
+- 左と中央のテキストフィールドの間に、押したボタンと同じ演算を示すテキストを表示させる（押したボタンに合わせて変わる）
+- 左と中央のテキストフィールドが空っぽまたは数字以外の文字の状態でボタンを押すと例外が発生するので、try-catch文を用いた例外処理を組み込み、その場合には右側のテキストフィードに `ERROR` を表示する
 
-### Run command
-`gradle test`
+（注意）本課題では、テストコードを提供しないので、作成したコードの実行結果を丁寧に確認してください。
 
-### Notes
-- The JDK is installed on GitHub Actions machines, so you're also able to directly invoke `javac`, `java`, or any other CLI command included in the JDK. 
+### 完成したProgF2.main()を実行して表示されるウィンドウの例（作成者が 4720000 生命工太　の場合）
+
