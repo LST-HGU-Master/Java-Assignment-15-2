@@ -12,5 +12,13 @@
 
 （注意）本課題でのテストコード提供はないので、各自の実行結果を丁寧に確認してください。
 
-### 完成したProgF2.main()を実行して表示されるウィンドウの例（ 4720000 生命工太 の場合）
 
+### 完成したProgF2.main()を実行して表示されるウィンドウの例（ 4720000 生命工太 の場合）
+起動直後
+![ProgF2起動直後](https://user-images.githubusercontent.com/50605381/181150232-c2bff880-fe68-47e9-bf23-e00376603aa8.png)
+
+中央のテキストフィールドの数字が0.0の場合
+![ProgF2で0割り算](https://user-images.githubusercontent.com/50605381/181151009-921378d2-fe12-46b9-b901-851273dc4a23.png)
+
+左または中央のテキストフィールドが空っぽまたは文字の場合
+![ProgF2で空白演算](https://user-images.githubusercontent.com/50605381/181151858-13e0b1e4-1fcd-490c-a8f2-af1291eb1adf.png)
