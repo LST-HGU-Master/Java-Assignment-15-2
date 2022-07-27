@@ -1,7 +1,7 @@
 import java.awt.event.*;
 import javax.swing.*;
 /**
- * クラス ProgF2Calc
+ * クラス ProgF2
  * 
  * @author (あなたの名前)
  * @version (日付)
@@ -29,7 +29,7 @@ public class ProgF2 extends JFrame
         bt1 = new JButton("＋"); bt1.addActionListener(ma);
         bt1.setBounds(20,y3,btW,btH); add(bt1);
         bt2 = new JButton("－"); bt2.addActionListener(ma);
-        bt2.setBounds(120,y3,btW,btH); add(bt2);
+        bt2.setBounds(80,y3,btW,btH); add(bt2);
         setVisible(true); 
     }
 
